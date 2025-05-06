@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['func_3',['func',['../namespacemain.html#a2424d8a694e332704f91d7182ddf360a',1,'main']]]
+  ['configuring_20automatic_20publishing_20using_20github_20actions_0',['Configuring automatic publishing using github actions',['../index.html#autotoc_md2',1,'']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['github_2ddocumentation_2dwith_2ddoxygen_26',['Github-Documentation-With-Doxygen',['../index.html',1,'']]]
+  ['documentation_20with_20doxygen_0',['Github-Documentation-With-Doxygen',['../index.html',1,'']]],
+  ['doxygen_1',['Github-Documentation-With-Doxygen',['../index.html',1,'']]]
 ];
